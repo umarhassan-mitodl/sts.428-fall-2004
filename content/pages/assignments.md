@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a description of the research paper assigned for
   the course and a list of selected student paper titles.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

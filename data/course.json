@@ -38,6 +38,7 @@
     "website": "sts-428-technology-and-change-in-rural-america-fall-2004"
   },
   "course_title": "Technology and Change in Rural America",
+  "hide_download": true,
   "course_description": "This course considers the historical dimensions of rural production from subsistence to industrialization, both in America and in an international context, with an emphasis on the role of science and technology. Topics include changing notions of progress; emergence of genetics and its complex applications to food production; mechanization of both farm practices and the food industry; role of migrant labor; management theory and its impact on farm practice; role of federal governments and NGOs in production systems; women in food production systems; and the green revolution.\n",
   "department_numbers": [
     "STS"
@@ -48,6 +49,7 @@
     "content": "256a4b51-a118-3685-9d08-6928cb8fd8a5",
     "website": "sts-428-technology-and-change-in-rural-america-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],
