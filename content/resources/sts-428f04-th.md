@@ -8,8 +8,8 @@ file_size: 2108
 file_type: image/jpeg
 image_metadata:
   caption: 'The old and the new: a tractor and plow, in front of a pair of oxen pulling
-    a plow. (Image courtesy of the [Library of Congress](http://www.loc.gov/), Prints
-    & Photographs Division, LC-USZ62-55902.)'
+    a plow. (Image courtesy of the {{% resource_link "9b2727bb-d7b6-4e49-950f-c5444513b530"
+    "Library of Congress" %}}, Prints & Photographs Division, LC-USZ62-55902.)'
   credit: ''
   image-alt: Photo of tractor and plow, in front of oxen pulling a plow.
 learning_resource_types: []
